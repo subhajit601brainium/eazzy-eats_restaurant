@@ -1,1 +1,1 @@
-# eazzy-eats_restaurant
+# eazzy-eats_admin
